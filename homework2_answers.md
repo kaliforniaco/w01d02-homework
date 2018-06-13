@@ -27,4 +27,7 @@ GA Week One Day Two Homework
 
 -->Commit 3
 
+1. A repository may be merged when two projects join together. It 	maybe best to track with a pull, so someone can make sure there are no conflicts
+
+2. Use 'git push' to send your local update to the remote repo.
 
