@@ -10,7 +10,7 @@ GA Week One Day Two Homework
 3. to move a file from the stageing area to the repository:
 	git commit (-m "add a decriptive comment for this version")
 
---
+--> Commit 1
 
 1. Use 'git pull' to bring changes from the master to your local	repository.
 2. to unstage a file, use the command: git reset HEAD [file]
@@ -18,5 +18,13 @@ GA Week One Day Two Homework
 4. It is imporant to use '--' when changing files because it specifies extended flags
 5. You may want to reset back to a previous commit when an error has been mistakenly added a broken update.
 
---
+-->Commit 2
+
+1. Create a branch with: git branch [branch-name].
+2. Use 'git checkout [branch-name]' to change branches.
+3. One might wish to use a different branch when working within
+	a different department or project.
+
+-->Commit 3
+
 
